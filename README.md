@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Dilan 👋
 
-<!--
-**Dilansunil/Dilansunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Engineer and Python Developer passionate about building intelligent applications using Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing (NLP)
+
+## 🧠 AI Technologies
+
+- LangChain
+- HuggingFace
+- Retrieval-Augmented Generation (RAG)
+- Vector Embeddings
+- Large Language Models (LLMs)
+
+## 📌 Projects
+
+🔹 AI Personal Assistant  
+Voice and text based assistant built with Python.
+
+🔹 DocuChat – Multi PDF AI Chatbot  
+AI chatbot that allows users to query multiple PDF documents using RAG.
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/dilan-s-5066552b7
